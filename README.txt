@@ -64,3 +64,4 @@ erp_system/
 * Your Student ID
 ## 9. Notes
 * (Limitations, issues encountered, future development plans, etc.)
+https://www.youtube.com/watch?v=TI-Ct8CrhIg&feature=youtu.be
